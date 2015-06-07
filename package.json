@@ -1,0 +1,32 @@
+{
+  "name": "same-time",
+  "version": "1.0.0",
+  "description": "Call functions in parallel and memorize the results.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "deffy": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-same-time.git"
+  },
+  "keywords": [
+    "same",
+    "time",
+    "parallel",
+    "functions"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-same-time/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-same-time"
+}
