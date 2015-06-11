@@ -15,7 +15,7 @@
 
 # same-time [![Donate now][donate-now]][paypal-donations]
 
-Call functions in parallel and memorize the results.
+Call functions in parallel and stores the results.
 
 ## Installation
 
@@ -57,7 +57,7 @@ SameTime([
 ## Documentation
 
 ### `SameTime(arr, cb)`
-Calls functions in parallel and memorizes the results.
+Calls functions in parallel and stores the results.
 
 #### Params
 - **Array** `arr`: An array of functions getting the callback parameter in the first argument.
