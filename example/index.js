@@ -6,12 +6,12 @@ SameTime([
     function (cb) {
         setTimeout(function() {
             cb(null, "Something async")
-        }, 1000);
+        }, 3000);
     }
   , function (cb) {
         setTimeout(function() {
             cb(new Error("An error."))
-        }, 2000);
+        }, 500);
     }
   , function (cb) {
         setTimeout(function() {
@@ -20,4 +20,6 @@ SameTime([
     }
 ], function (err, data, something) {
     console.log(err, data, something);
+    // After 3 seconds
+    // [ null, [Error: An error.], null ] [ 'Something async', , null ] [ , , 42 ]
 });
