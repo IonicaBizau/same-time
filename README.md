@@ -15,7 +15,7 @@
 
 # same-time [![Donate now][donate-now]][paypal-donations]
 
-Call functions in parallel and stores the results.
+Call functions in parallel and store the results.
 
 ## Installation
 
