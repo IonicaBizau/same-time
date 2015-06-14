@@ -17,6 +17,8 @@
 
 Call functions in parallel and store the results.
 
+If you want to run async functions in parallel, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one).
+
 ## Installation
 
 ```sh
@@ -80,4 +82,4 @@ a copy of the license.
 [website]: http://ionicabizau.net
 [docs]: /DOCUMENTATION.md
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
-[donate-now]: http://i.imgur.com/jioicaN.png# node-same-time
+[donate-now]: http://i.imgur.com/jioicaN.png
