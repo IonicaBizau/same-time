@@ -17,7 +17,7 @@
 
 Call functions in parallel and store the results.
 
-If you want to run async functions in parallel, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one).
+If you want to run async functions synchronously, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one).
 
 ## Installation
 
