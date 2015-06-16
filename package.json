@@ -1,13 +1,13 @@
 {
   "name": "same-time",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Call functions in parallel and store the results.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
   },
   "dependencies": {
-    "deffy": "^1.0.0"
+    "deffy": "2.0.0"
   },
   "devDependencies": {},
   "scripts": {
