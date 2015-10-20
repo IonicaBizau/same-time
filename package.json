@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/node-same-time.git"
+    "url": "git@github.com:IonicaBizau/same-time.js.git"
   },
   "keywords": [
     "same",
@@ -26,9 +26,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/node-same-time/issues"
+    "url": "https://github.com/IonicaBizau/same-time.js/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-same-time",
+  "homepage": "https://github.com/IonicaBizau/same-time.js",
   "blah": {
     "description": "If you want to run async functions synchronously, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one)."
   }
