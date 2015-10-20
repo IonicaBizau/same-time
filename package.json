@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-same-time/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-same-time"
+  "homepage": "https://github.com/IonicaBizau/node-same-time",
+  "blah": {
+    "description": "If you want to run async functions synchronously, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one)."
+  }
 }
