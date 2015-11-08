@@ -1,8 +1,8 @@
-# same-time [![Donate now][donate-now]][paypal-donations]
+# same-time [![Support this project][donate-now]][paypal-donations]
 
 Call functions in parallel and store the results.
 
-If you want to run async functions synchronously, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one).
+If you want to run async functions synchronously, check out [`one-by-one.js`](https://github.com/IonicaBizau/one-by-one.js).
 
 ## Installation
 
@@ -60,7 +60,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`blah`](https://github.com/IonicaBizau/node-blah)
+ - [`blah`](https://github.com/IonicaBizau/blah)
 
  - [`cdnjs-importer`](https://github.com/cdnjs/cdnjs-importer)
 
@@ -72,13 +72,17 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`mongof`](https://github.com/IonicaBizau/node-mongof)
 
+ - [`package-dependents`](https://github.com/IonicaBizau/node-package-dependents#readme)
+
 ## License
-[KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
-a copy of the license.
+
+[KINDLY][license] © [Ionică Bizău][website]
 
 [license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
-[contributing]: /CONTRIBUTING.md
+
 [website]: http://ionicabizau.net
-[docs]: /DOCUMENTATION.md
-[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md

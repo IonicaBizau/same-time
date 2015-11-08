@@ -1,6 +1,6 @@
 {
   "name": "same-time",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Call functions in parallel and store the results.",
   "main": "lib/index.js",
   "directories": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/IonicaBizau/same-time.js",
   "blah": {
-    "description": "If you want to run async functions synchronously, check out [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one)."
+    "description": "If you want to run async functions synchronously, check out [`one-by-one.js`](https://github.com/IonicaBizau/one-by-one.js)."
   }
 }
