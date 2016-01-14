@@ -1,6 +1,6 @@
-# same-time [![Support this project][donate-now]][paypal-donations]
+# same-time [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/same-time.svg)](https://www.npmjs.com/package/same-time) [![Downloads](https://img.shields.io/npm/dt/same-time.svg)](https://www.npmjs.com/package/same-time) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Call functions in parallel and store the results.
+> Call functions in parallel and store the results.
 
 If you want to run async functions synchronously, check out [`one-by-one.js`](https://github.com/IonicaBizau/one-by-one.js).
 
@@ -70,6 +70,8 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`gh-following`](https://github.com/IonicaBizau/gh-following#readme)
 
+ - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)
+
  - [`github-labeller`](https://github.com/IonicaBizau/github-labeller#readme)
 
  - [`gpm`](https://github.com/IonicaBizau/gpm)
@@ -77,6 +79,8 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`mongof`](https://github.com/IonicaBizau/node-mongof)
 
  - [`nodeice`](https://github.com/IonicaBizau/nodeice)
+
+ - [`npm-available-array`](https://github.com/IonicaBizau/npm-available-array#readme)
 
  - [`package-dependents`](https://github.com/IonicaBizau/node-package-dependents#readme)
 
