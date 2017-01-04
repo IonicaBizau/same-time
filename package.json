@@ -1,6 +1,6 @@
 {
   "name": "same-time",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Call functions in parallel and store the results.",
   "main": "lib/index.js",
   "directories": {
