@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Calls functions in parallel and stores the results.
 
 #### Params
+
 - **Array** `arr`: An array of functions getting the callback parameter in the first argument.
 - **Function** `cb`: The callback function called with:
  - first parameter: `null` if there were no errors or an array containing the error values
