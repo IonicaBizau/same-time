@@ -19,7 +19,7 @@
 
 # same-time
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/same-time.svg)](https://www.npmjs.com/package/same-time) [![Downloads](https://img.shields.io/npm/dt/same-time.svg)](https://www.npmjs.com/package/same-time) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/same-time.svg)](https://www.npmjs.com/package/same-time) [![Downloads](https://img.shields.io/npm/dt/same-time.svg)](https://www.npmjs.com/package/same-time) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -113,6 +113,7 @@ SameTime([
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -122,6 +123,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -194,42 +197,6 @@ Thanks! :heart:
 
 
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `made-in`
- - `bloggify-viewer`
- - `bloggify-markdown-adapter`
- - `find-file-in-dirs`
- - `gh-repeat`
- - `fs-file-tree`
- - `engine-parser`
- - `engine-builder`
- - `engine-composition-crud`
- - `engine-tools`
- - `same-time-limit`
- - `bloggify-plugin-class`
- - `asyncer.js`
- - `babel-it`
- - `blah`
- - `gm-tools`
- - `img-ssim`
- - `nodeice`
- - `npm-available-array`
- - `read-dir-and-stat`
- - `fork-me`
- - `showalicense.com`
- - `cdnjs-importer`
- - `@isysd/gpm`
- - `gh-following`
- - `gh-destroy`
- - `gpm`
- - `github-emojify`
- - `github-labeller`
- - `mongof`
-
-
-
 
 
 
@@ -248,7 +215,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
 [license]: /LICENSE
-[website]: http://ionicabizau.net
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
 [badge_patreon]: https://ionicabizau.github.io/badges/patreon.svg

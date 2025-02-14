@@ -1,6 +1,6 @@
 {
   "name": "same-time",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "description": "Call functions in parallel and store the results.",
   "main": "lib/index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "parallel",
     "functions"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/same-time.js/issues"
@@ -31,5 +31,22 @@
   "homepage": "https://github.com/IonicaBizau/same-time.js",
   "blah": {
     "description": "If you want to run async functions synchronously, check out [`one-by-one.js`](https://github.com/IonicaBizau/one-by-one.js)."
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
